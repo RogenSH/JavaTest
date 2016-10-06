@@ -1,4 +1,4 @@
-package com.huawei.niuke;
+package com.huawei.niuke1;
 
 /*
  * 功能:输入一个正整数，按照从小到大的顺序输出它的所有质数的因子（如180的质数因子为2 2 3 3 5 ）
