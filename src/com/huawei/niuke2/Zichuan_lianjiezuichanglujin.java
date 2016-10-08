@@ -1,6 +1,6 @@
 package com.huawei.niuke2;
 
-/*
+/*     字串的连接最长路径查找
  * 输入第一行为一个正整数n(1≤n≤1000),下面n行为n个字符串(字符串长度≤100),字符串中只含有大小写字母。
  * 输出描述:数据输出n行，输出结果为按照字典序排列的字符串。
 输入例子:
@@ -88,6 +88,29 @@ public class Zichuan_lianjiezuichanglujin {
 //            for (int i = 0; i < ss.length; i++) {
 //                System.out.println(ss[i]);
 //            }
+//        }
+//    }
+    
+    
+    //使用TreeSet 会导致重复单词被剔除  
+//    import java.util.Set;
+//    import java.util.TreeSet;
+//
+//    public class Main {
+//        public static void main(String[] args) {
+//        	Scanner sc=new Scanner(System.in);
+//        	int n=Integer.valueOf(sc.nextLine());
+//        	String[] s=new String[n];
+//        		for(int i=0;i<n;i++){
+//        			s[i]=sc.next();
+//        		}
+//        		Set<String> set=new TreeSet<>();
+//        		for(int j=0;j<n;j++){
+//        			set.add(s[j]);
+//        		}
+//        	for(String c:set){
+//        		System.out.println(c);
+//        	}
 //        }
 //    }
 }
