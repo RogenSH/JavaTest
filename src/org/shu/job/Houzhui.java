@@ -18,6 +18,7 @@ import java.util.Scanner;
 //}
 //
 
+
 public class Houzhui {
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(System.in);
