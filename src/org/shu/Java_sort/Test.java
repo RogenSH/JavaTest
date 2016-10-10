@@ -1,0 +1,48 @@
+package org.shu.Java_sort;
+
+import java.awt.print.Printable;
+import java.util.Scanner;
+import java.util.Stack;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// ≈≈–ÚÀ„∑®
+		int array[] = {1,54,6,3,78,34,12,45,56,6 };
+		
+		Base_sort.print(array);
+		
+		// ≤Â»Î≈≈–Ú:÷±Ω”≤Â»Î
+		InsertSort insertSort = new InsertSort(array);
+		insertSort.print(array);
+		insertSort.print(insertSort.sort_an());
+			
+		//≤Â»Î≈≈–Ú:œ£∂˚≈≈–Ú£®◊Ó–°‘ˆ¡ø≈≈–Ú£©
+		ShellSort shellSort=new ShellSort(array);
+//		shellSort.print(shellSort.sort_an());
+		
+		//—°‘Ò≈≈–Ú£∫ºÚµ•≈≈–Ú
+		SelectSort selectSort=new SelectSort(array);
+//		selectSort.print(selectSort.sort());
+		
+		//—°‘Ò≈≈–Ú£∫∂—≈≈–Ú
+//		HeapSort heapSort=new HeapSort(array);
+//		heapSort.print(heapSort.sort());
+		
+		//øÏÀŸ≈≈–Ú
+		QuickSort quickSort=new QuickSort(array);
+	//	quickSort.print(quickSort.sort());
+		
+		//πÈ≤¢≈≈–Ú
+	//	MergeSort mergeSort=new MergeSort();
+		
+		//ª˘ ˝≈≈–Ú
+	//	RadixSort radixSort=new RadixSort();
+		
+		//Õ∞≈≈–Ú
+//		BucketSort bucketSort=new BucketSort();
+		
+
+	}
+
+}
