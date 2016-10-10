@@ -7,12 +7,48 @@ public class QuickSort extends Base_sort {
 	// 98, 54, 56, 17, 18, 23, 34, 15, 35, 25, 53, 51 };
 
 	public QuickSort(int[] array) {
-
 		super(array);
-		
-
 	}
-
+	
+	//import java.util.Scanner;
+	//public class Main {
+//		public static void main(String[] args) {
+//			Scanner sc = new Scanner(System.in);
+//			String str = sc.nextLine();
+//			String[] num = str.split(" ");
+//			int[] n = new int[num.length];
+//			for (int i = 0; i < num.length; i++) {
+//				n[i] = Integer.valueOf(num[i]);
+//			}
+//			sort(n, 0, n.length - 1);
+//			for(int i:n){
+//				System.out.print(i+" ");
+//			}
+	//
+//		}
+	//
+//	private static void sort(int[] n, int first, int last) {
+//		if (first >= last)
+//			return;
+//		int left = first;
+//		int right = last;
+//		int temp = n[first];// 数组的第一个作为中轴
+//		while (left < right) {
+//			while (temp < n[right] && left < right) {
+//				right--;
+//			}
+//			n[left] = n[right];// 比中轴小的记录移到低端
+//			while (temp > n[left] && left < right) {
+//				left++;
+//			}
+//			n[right] = n[left];// 比中轴大的记录移到高端
+//		}
+//		int middle = left;// 跳出first<last循环时表示first=last，即为中轴位置
+//		n[middle] = temp;
+//		sort(n, middle + 1, last);// 对低字表进行递归排序
+//		sort(n, first, middle - 1);// 对高字表进行递归排序
+//	}
+	
 	@Override
 	public int[] sort() {
 		quick(array);
@@ -65,3 +101,7 @@ public class QuickSort extends Base_sort {
 	}
 
 }
+
+
+
+	

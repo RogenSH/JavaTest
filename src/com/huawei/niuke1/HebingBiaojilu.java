@@ -1,4 +1,4 @@
-package com.huawei.niuke2;
+package com.huawei.niuke1;
 
 /*
  * 数据表记录包含表索引和数值，请对表索引相同的记录进行合并，

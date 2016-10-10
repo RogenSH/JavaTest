@@ -1,4 +1,4 @@
-package com.huawei.niuke2;
+package com.huawei.niuke1;
 
 /*输入一个int型整数，按照从右向左的阅读顺序，返回一个不含重复数字的新的整数。
  * 输入例子:9876673
