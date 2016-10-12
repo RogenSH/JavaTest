@@ -4,10 +4,16 @@
 -------------
 ## default package
 - Main.java
+
 - _TestMap:HashMap,Hashtable,LinkedHashMap,TreeMap示例。
+http://blog.csdn.net/lcore/article/details/8886696
+
 - BinaryTree:二叉树遍历（前序，中序，后序|递归&&非递归）
-- ComNum:有两个有序的整型数组a和b（没有重复元素），他们的长度分别为lenA和lenB，求出他们的共同元素。
-- QueryText: 给定一个 query 和一个 text,均由小写字母组成。要求在 text 中找出以同样的顺序连 续出现在 query 中的最长连续字母序列的长度。
+
+- BSTree:查找二叉树的遍历与增删    
+http://www.cnblogs.com/skywang12345/p/3576452.html
+http://blog.csdn.net/lcore/article/details/8889176
+
 
 ----------
 ## huawei.niuke
@@ -75,6 +81,17 @@ http://www.nowcoder.com/ta/huawei
 
 - 排序并去除连续数字（华为）：输入一组大于等于0的整数，根据从小到大的顺序排序后输出，排序后有连续数时只取连续数边界值
 
-- 相加：设计一个算法能够完成两个字符串存储的整数进行相加操作，对非法输入则返回“error”
+- 相加（美团）：设计一个算法能够完成两个字符串存储的整数进行相加操作，对非法输入则返回“error”
 
-- 纸币组合
+- 纸币组合（美团）
+
+
+---------------------
+
+## train:
+
+- No1:输出字符个数（输入：abbbcccd 输出：a1b3c3d1 个别字符会出现十次以上情况）
+
+- ComNum:有两个有序的整型数组a和b（没有重复元素），他们的长度分别为lenA和lenB，求出他们的共同元素。
+
+- QueryText: 给定一个 query 和一个 text,均由小写字母组成。要求在 text 中找出以同样的顺序连 续出现在 query 中的最长连续字母序列的长度。

@@ -1,8 +1,8 @@
 
 
 /*
- * ÊäÈë£º
- * Êä³ö
+ * 
+ * 
  */
 
 import java.util.Scanner;

@@ -3,6 +3,7 @@ import java.util.Hashtable;
 import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.Map;
+import java.util.Set;
 import java.util.TreeMap;
 
 /*
@@ -58,6 +59,13 @@ public class _TestMap {
 				// System.out.println("key: " + entry.getKey() + "; value: " +
 				// entry.getValue());
 			}
+			//或者使用静态方法
+	
+//	    	for(Map.Entry<Object,Object> entry1:map.entrySet()){
+//	    		Object ch=entry1.getKey();
+//	    		Object in=entry1.getValue();
+//	    	}
+			
 		}
 	}
 

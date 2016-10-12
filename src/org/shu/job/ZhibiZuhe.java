@@ -31,7 +31,7 @@ public class ZhibiZuhe {
 		System.out.println(m+" : "+(end-start)+"ms");
 	}
 
-	private static int Calculate1(int n, int[] k,int i) {	
+	private static int Calculate1(int n, int[] k,int i) {
 		if(n==0)
 			return 1; 
 		if(n<0)

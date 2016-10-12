@@ -1,3 +1,4 @@
+package org.shu.train;
 /*
  * 给定一个 query 和一个 text,均由小写字母组成。
  * 要求在 text 中找出以同样的顺序连 续出现在 query 中的最长连续字母序列的长度。
