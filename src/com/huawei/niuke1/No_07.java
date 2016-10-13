@@ -5,7 +5,7 @@ package com.huawei.niuke1;
  */
 import java.util.Scanner;
 
-public class Qujinsizhi {
+public class No_07 {
     public static void main(String[] args) {
     	Scanner sc=new Scanner(System.in);
     	float f=sc.nextFloat();

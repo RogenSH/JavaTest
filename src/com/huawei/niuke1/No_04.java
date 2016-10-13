@@ -8,7 +8,7 @@ import java.util.Scanner;
  (输入2次,每个字符串长度小于100)   
  */
 
-public class ZifuchuanFenGe {
+public class No_04 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		while (sc.hasNext()) {

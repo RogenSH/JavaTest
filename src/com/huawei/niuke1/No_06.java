@@ -10,7 +10,7 @@ package com.huawei.niuke1;
  */
 import java.util.Scanner;
 
-public class Zhiziyinshu {
+public class No_06 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		Long num = sc.nextLong();

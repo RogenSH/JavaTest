@@ -33,7 +33,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 import java.util.Vector;
  
-public class Zichuan_lianjiezuichanglujin {
+public class No_14 {
     //·½·¨Ò»
 //  public static void main(String[] args) {
 //      Scanner in=new Scanner(System.in);

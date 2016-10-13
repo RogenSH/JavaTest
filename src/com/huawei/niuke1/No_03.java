@@ -19,7 +19,7 @@ import java.util.TreeSet;
 
  注：测试用例保证输入参数的正确性，答题者无需验证。测试用例不止一组。
  */
-public class QuCHong_Paixu {
+public class No_03 {
 
 	private static int[] inputs;
 	private static int len;

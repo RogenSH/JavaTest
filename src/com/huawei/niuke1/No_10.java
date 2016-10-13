@@ -14,7 +14,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class ZifuGeshuTongji {
+public class No_10 {
     public static void main(String[] args) {
     	Scanner sc=new Scanner(System.in);
     	char[] c=sc.nextLine().toCharArray();

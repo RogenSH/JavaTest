@@ -7,7 +7,7 @@ import java.util.Scanner;
  * 然后输出输入字符串中含有该字符的个数。不区分大小写。
  */
 
-public class NumOfLine {
+public class No_02 {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
