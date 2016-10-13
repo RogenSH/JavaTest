@@ -26,8 +26,8 @@ public class MergeSort {
 	}  
 	  
 	public void merge(int[] data, int left, int center, int right) {  
-	    // TODO Auto-generatedmethod stub  
-	    int [] tmpArr=new int[data.length];  
+
+		int [] tmpArr=new int[data.length];  
 	    int mid=center+1;  
 	    //third记录中间数组的索引  
 	    int third=left;  

@@ -14,6 +14,10 @@ http://blog.csdn.net/lcore/article/details/8886696
 http://www.cnblogs.com/skywang12345/p/3576452.html
 http://blog.csdn.net/lcore/article/details/8889176
 
+- 二分查找
+
+
+
 
 ----------
 ## huawei.niuke
@@ -84,6 +88,8 @@ http://www.nowcoder.com/ta/huawei
 - 相加（美团）：设计一个算法能够完成两个字符串存储的整数进行相加操作，对非法输入则返回“error”
 
 - 纸币组合（美团）
+
+- 洗牌(今日头条)：
 
 
 ---------------------
