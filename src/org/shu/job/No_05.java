@@ -10,7 +10,7 @@ import java.math.BigInteger;
  * 如输入 123 123 输出 246
  * 又如输入 abd 123  输出 error
  */
-public class Xiangjia {
+public class No_05 {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 

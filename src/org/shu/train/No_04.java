@@ -1,4 +1,4 @@
-package org.shu.job;
+package org.shu.train;
 
 
 /*
@@ -7,7 +7,7 @@ package org.shu.job;
 
 import java.util.Scanner;
 
-public class CaiShuzi {
+public class No_04 {
     public static void main(String[] args) {
     	int x=(int)( Math.random()*100);
     	Scanner sc=new Scanner(System.in);

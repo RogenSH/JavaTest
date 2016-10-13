@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*华为
  * 输入一组大于等于0的整数，根据从小到大的顺序排序后输出，排序后有连续数时
  */
-public class SortOfInt {
+public class No_02 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String in = sc.nextLine();

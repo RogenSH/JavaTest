@@ -9,7 +9,7 @@ package org.shu.train;
  
 import java.util.Scanner;
  
-public class QueryText {
+public class No_03 {
  
     static int[] fail;
  

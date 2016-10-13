@@ -10,7 +10,7 @@ package org.shu.job;
  * Êä³ö£º2
  */
 import java.util.Scanner;
-public class NumOfZero {
+public class No_04 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		while (scanner.hasNextInt()) {

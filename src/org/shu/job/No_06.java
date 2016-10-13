@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 
 //有数量不限的面值为100，50，20，10，5，1元的纸币，问要组成N（N<=10^6）共有多少种组合方式？（Google笔试题）
-public class ZhibiZuhe {
+public class No_06 {
 	public static void main(String[] args) {
 		System.out.println("Input the N: ");
 		Scanner in=new Scanner(System.in);

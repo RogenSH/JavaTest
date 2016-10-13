@@ -4,7 +4,7 @@ package org.shu.train;
  例如：a = 0,1,3,5,7,9,11；b = 2,3,4,7,11； 
  它们的交集为{3，7，11}。
  */
-public class ComNun {
+public class No_02 {
 
 /*
  * 	 二路归并法

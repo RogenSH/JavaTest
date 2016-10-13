@@ -19,7 +19,7 @@ import java.util.Scanner;
 //
 
 
-public class Houzhui {
+public class No_07 {
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(System.in);
 		while (sc.hasNext()) {
