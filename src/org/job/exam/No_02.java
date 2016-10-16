@@ -1,4 +1,4 @@
-package org.shu.job;
+package org.job.exam;
 
 import java.util.Scanner;
 

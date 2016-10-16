@@ -1,4 +1,4 @@
-package org.shu.job;
+package org.job.exam;
 
 /*去哪儿
  *输出 文件名后缀

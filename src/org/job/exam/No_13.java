@@ -1,4 +1,4 @@
-package org.shu.job;
+package org.job.exam;
 
 /*    2/1,3/2,5/3,8/5...求前N项和，结果四舍五入。
  * 

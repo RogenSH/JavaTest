@@ -1,4 +1,4 @@
-package org.shu.train;
+package org.job.train;
 
 
 /*

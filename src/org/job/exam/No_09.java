@@ -1,4 +1,4 @@
-package org.shu.job;
+package org.job.exam;
 
 /*
  * 已知前序与中序的字符序列，输出后序序列。

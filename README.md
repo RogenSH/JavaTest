@@ -67,7 +67,7 @@ http://www.nowcoder.com/ta/huawei
 
 - MergeSort£∫πÈ≤¢≈≈–Ú°££ø
 
-- InsertSort:≤Â»Î≈≈–Ú°££ø
+- InsertSort:≤Â»Î≈≈–Ú°£
 
 ---------
 ## job
