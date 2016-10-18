@@ -69,6 +69,12 @@ http://www.nowcoder.com/ta/huawei
 
 - InsertSort:≤Â»Î≈≈–Ú°£
 
+- ShellSort:œ£∂˚≈≈–Ú
+
+- BubbleSort:√∞≈›≈≈–Ú £®º¶Œ≤æ∆≈≈–Ú£©
+
+- SelectSort:—°‘Ò≈≈–Ú
+
 ---------
 ## job.exam
 
