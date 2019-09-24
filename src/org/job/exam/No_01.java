@@ -1,5 +1,5 @@
 package org.job.exam;
-//»ªÎª
+//ï¿½ï¿½Îª 123
 import java.util.Scanner;
 
 public class No_01 {
